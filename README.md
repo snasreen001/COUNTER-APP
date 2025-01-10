@@ -1,1 +1,1 @@
-# COUNTER-APP  
+# counter-app  
