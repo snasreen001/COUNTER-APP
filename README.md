@@ -10,5 +10,4 @@ Real-Time Updates: The counter value updates instantly with every click.
 
   <h2><b>🛠️Technologies Used<b></h2>
 HTML: For the structure and layout of the app.<br>
-CSS: For styling the buttons, layout, and overall design.<br>
 JavaScript: For dynamic functionality and interactivity.
